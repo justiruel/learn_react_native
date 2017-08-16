@@ -1,6 +1,6 @@
 # learn_react_native
 
-#Ketika running di device dan muncul error cek:
+# Ketika running di device dan muncul error cek:
 https://stackoverflow.com/a/45409223
 
 # Referensi
