@@ -24,6 +24,7 @@ export default class State_gue extends Component {
           />
 
           <Text>Hello nama saya {this.state.nama}</Text>
+
       </View>
     );
   }
