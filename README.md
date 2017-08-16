@@ -4,8 +4,10 @@
 https://stackoverflow.com/a/45409223
 
 # Referensi
-http://www.kodingindonesia.com/tutorial-react-native-bahasa-indonesia/
-https://www.youtube.com/watch?v=OgLaGWBI3Mw&list=PL-Ra8U0JXtVWmizDdKf7WPubFkpdHv6vS
+<ul>
+      <li>http://www.kodingindonesia.com/tutorial-react-native-bahasa-indonesia/</li>
+      <li>https://www.youtube.com/watch?v=OgLaGWBI3Mw&list=PL-Ra8U0JXtVWmizDdKf7WPubFkpdHv6vS</li>
+</ul>
 
 
 # State
