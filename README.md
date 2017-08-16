@@ -35,10 +35,12 @@ this.setState({nama:text})
 Semacam session yang pendefinisiannya di luar class
 
 <h1>SET</h1>
+
 ```
 <Object_gue nama="joni"/>
 ```
 <h1>GET</h1>
+
 ```
 {this.props.nama}
 ```
