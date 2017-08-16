@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=OgLaGWBI3Mw&list=PL-Ra8U0JXtVWmizDdKf7WPubFkpdHv
 # State
 Semacam session yang pendefinisiannya di dalam class
 
-<h1>SET</h1>
+<h3>SET</h3>
 
 -> STATIC
 ```
@@ -25,7 +25,7 @@ this.state ={
 this.setState({nama:text})
 ```
 
-<h1>GET</h1>
+<h3>GET</h3>
 
 ```
 {this.state.nama}
@@ -34,12 +34,12 @@ this.setState({nama:text})
 # Props 
 Semacam session yang pendefinisiannya di luar class
 
-<h1>SET</h1>
+<h3>SET</h3>
 
 ```
 <Object_gue nama="joni"/>
 ```
-<h1>GET</h1>
+<h3>GET</h3>
 
 ```
 {this.props.nama}
