@@ -44,3 +44,17 @@ Semacam session yang pendefinisiannya di luar class
 ```
 {this.props.nama}
 ```
+
+
+# LEARN
+<b>1. saat Instansiasi object, awalan nama object harus huruf besar contoh</b>
+
+```
+import Gs from './components/global_state';
+```
+
+harus "Gs" tidak bole "gs"
+
+<b>2. untuk set vertical/horizontal sebuah komponen gunakan flexbox</b><br/>
+https://facebook.github.io/react-native/docs/flexbox.html
+
