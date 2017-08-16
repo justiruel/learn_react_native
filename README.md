@@ -26,6 +26,7 @@ this.setState({nama:text})
 ```
 
 <h1>GET</h1>
+
 ```
 {this.state.nama}
 ```
