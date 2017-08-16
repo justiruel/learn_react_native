@@ -11,29 +11,25 @@ https://www.youtube.com/watch?v=OgLaGWBI3Mw&list=PL-Ra8U0JXtVWmizDdKf7WPubFkpdHv
 # State
 Semacam session yang pendefinisiannya di dalam class
 
-SET
-===
+<h1>SET</h1>
 
-~STATIC~
+-> STATIC
 this.state ={
       nama:'irul'
 }
 
-~DYNAMIC~
+-> DYNAMIC
 this.setState({nama:text})
 
-GET
-===
+<h1>GET</h1>
 {this.state.nama}
 
 
 # Props 
 Semacam session yang pendefinisiannya di luar class
 
-SET
-===
+<h1>SET</h1>
 <Object_gue nama="joni"/>
 
-GET
-===
+<h1>GET</h1>
 {this.props.nama}
