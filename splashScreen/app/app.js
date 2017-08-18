@@ -8,10 +8,7 @@ import {
   Alert
 } from 'react-native';
 
-import State from './components/State_gue';
-import Gs from './components/global_state';
-import Props from './components/Props_gue';
-import {Stack,Tab} from './components/router'; //ambil const/variable,class yang di export di router
+import {Stack} from './components/router'; //ambil const/variable,class yang di export di router
 
 
 export default class app extends Component {

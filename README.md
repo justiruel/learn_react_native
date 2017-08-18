@@ -3,10 +3,25 @@
 # Ketika running di device dan muncul error cek:
 https://stackoverflow.com/a/45409223
 
+# Saat membuat project baru misal "react-native init reactNavigate" lalu terjadi error (gagal install) maka gunakan perintah
+
+```
+npm cache clear --force
+```
+
+# Bila bertemu error berkaitan dengan "babel-preset-react-native", lakukan :
+
+```
+npm uninstall --save babel-preset-react-native
+npm install --save babel-preset-react-native@2.1.0
+```
+
+
 # Referensi
 <ul>
       <li>http://www.kodingindonesia.com/tutorial-react-native-bahasa-indonesia/</li>
       <li>https://www.youtube.com/watch?v=OgLaGWBI3Mw&list=PL-Ra8U0JXtVWmizDdKf7WPubFkpdHv6vS</li>
+	  <li>https://facebook.github.io/react-native/docs/navigation.html</li>
 </ul>
 
 

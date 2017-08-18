@@ -7,6 +7,7 @@ import {
   TextInput
 } from 'react-native';
 
+
 export default class Props_gue extends Component {
 
   constructor(){
@@ -15,10 +16,11 @@ export default class Props_gue extends Component {
 
   render() {
     return (
-      <View style={{flexDirection: 'row'}}>
-          <Text style={styles.inline}>Hello nama saya </Text>
-          <Text style={styles.titleText,styles.inline,{color:'red'}}>{this.props.nama}</Text>
-
+      <View style={{backgroundColor: 'yellow',height: '50%'}}>
+        <View style={{flexDirection: 'row',backgroundColor: 'yellow'}}>
+            <Text>Hello nama saya </Text>
+            <Text style={styles.inline}>{this.props.nama}</Text>
+        </View>
       </View>
     );
   }
@@ -36,5 +38,6 @@ const styles = StyleSheet.create({
   },
   inline:{
     backgroundColor: 'green',
+    color:'blue'
   }
   });

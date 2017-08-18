@@ -9,6 +9,11 @@ import {
 
 export default class State_gue extends Component {
 
+  static navigationOptions = {
+    title: 'State',
+  };
+
+
   constructor(){
     super();
     this.state ={
