@@ -8,3 +8,12 @@
 - Splash
 - Alert
 - BackHandler
+# How to use
+
+```
+npm install
+```
+
+```
+react-native run-android
+```
