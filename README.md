@@ -75,3 +75,10 @@ harus "Gs" tidak bole "gs"
 <b>2. untuk set vertical/horizontal sebuah komponen gunakan flexbox</b><br/>
 https://facebook.github.io/react-native/docs/flexbox.html
 
+<b>Rubah Bundle ID dari aplikasi</b><br/>
+https://stackoverflow.com/a/44481467
+https://www.npmjs.com/package/react-native-rename
+
+<b>Lokasi dari npm global</b>
+- C:\Users\Iruel\AppData\Roaming\npm\node_modules
+- npm list -g --depth=0
