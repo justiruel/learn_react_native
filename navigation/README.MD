@@ -1,13 +1,11 @@
 # Library
 - react-navigation
+- react-native-vector-icons
 # Edited File
 - index.android.js
 - ./app/*
 # Features
 - Navigation
-- Splash
-- Alert
-- BackHandler
 # How to use
 
 ```
