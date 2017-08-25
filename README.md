@@ -21,7 +21,9 @@ npm install --save babel-preset-react-native@2.1.0
 <ul>
       <li>http://www.kodingindonesia.com/tutorial-react-native-bahasa-indonesia/</li>
       <li>https://www.youtube.com/watch?v=OgLaGWBI3Mw&list=PL-Ra8U0JXtVWmizDdKf7WPubFkpdHv6vS</li>
-	  <li>https://facebook.github.io/react-native/docs/navigation.html</li>
+      <li>https://facebook.github.io/react-native/docs/navigation.html</li>
+      <li>https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3</li>
+	  
 </ul>
 
 
