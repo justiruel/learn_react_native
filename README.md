@@ -77,6 +77,29 @@ saat ingin menggunakan genymotion sebagai emulator :
 - edit
 - check hardware keyboard present
 
+# Import javascript
+## Perbandingan 1 (import method)
+### ES5
+```
+var add = require('lib').add; 
+console.log(add(1,2));
+```
+### ES6
+```
+import {add} from 'lib';
+console.log(add(1,2));
+```
+## Perbandingan 2 (import whole class)
+### ES5
+```
+var libku = require('lib'); 
+```
+### ES6
+```
+import libku from 'lib';
+```
+
+
 
 # LEARN
 <b>1. saat Instansiasi object, awalan nama object harus huruf besar contoh</b>
