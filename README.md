@@ -64,6 +64,12 @@ Semacam session yang pendefinisiannya di luar class
 {this.props.nama}
 ```
 
+# Genymotion
+saat ingin menggunakan genymotion sebagai emulator : 
+- buka genymotion
+- pilih setting -> adb -> use custom android sdk tools -> browse Android SDK nya, contoh : D:/Android/sdk
+- pilih start untuk menjalankan emulator
+- react-native run-android
 
 # LEARN
 <b>1. saat Instansiasi object, awalan nama object harus huruf besar contoh</b>
