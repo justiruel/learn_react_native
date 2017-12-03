@@ -71,6 +71,13 @@ saat ingin menggunakan genymotion sebagai emulator :
 - pilih start untuk menjalankan emulator
 - react-native run-android
 
+# Double R / Refresh emulator tidak berfungsi
+- Buka Android Virtual Device/AVD Manager
+- pilih salah satu emulator
+- edit
+- check hardware keyboard present
+
+
 # LEARN
 <b>1. saat Instansiasi object, awalan nama object harus huruf besar contoh</b>
 
@@ -90,3 +97,4 @@ https://www.npmjs.com/package/react-native-rename
 <b>Lokasi dari npm global</b>
 - C:\Users\Iruel\AppData\Roaming\npm\node_modules
 - npm list -g --depth=0
+
