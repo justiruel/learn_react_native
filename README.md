@@ -64,6 +64,10 @@ Semacam session yang pendefinisiannya di luar class
 {this.props.nama}
 ```
 
+# Start Remote Js Debugging avd (android virtual device)
+```
+Press ⌘+D on iOS simulator, ⌘+M on Android emulator
+```
 # Genymotion
 saat ingin menggunakan genymotion sebagai emulator : 
 - buka genymotion
