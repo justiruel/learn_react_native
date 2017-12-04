@@ -68,6 +68,8 @@ Semacam session yang pendefinisiannya di luar class
 ```
 Press ⌘+D on iOS simulator, ⌘+M on Android emulator
 ```
+ref : https://codeburst.io/react-native-debugging-tools-3a24e4e40e4
+
 # Genymotion
 saat ingin menggunakan genymotion sebagai emulator : 
 - buka genymotion
