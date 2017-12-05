@@ -87,7 +87,7 @@ saat ingin menggunakan genymotion sebagai emulator :
 ## Perbandingan 1 (import method)
 ### ES5
 ```
-var add = require('lib').add; 
+var add = require('lib').add; //method add class lib
 console.log(add(1,2));
 ```
 ### ES6
@@ -104,7 +104,6 @@ var libku = require('lib');
 ```
 import libku from 'lib';
 ```
-
 
 
 # LEARN
