@@ -1,5 +1,8 @@
 # learn_react_native
 
+# sublime snippets for react
+https://github.com/facebookarchive/sublime-react
+
 # Ketika running di device dan muncul error cek:
 https://stackoverflow.com/a/45409223
 
